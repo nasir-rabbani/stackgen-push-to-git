@@ -9,6 +9,6 @@ module "stackgen_5a532d91-eaad-4cd6-ae81-7d3d34b4bda2" {
   tags = {
     Name = "my_sg"
   }
-  vpc_id = "dfadf123"
+  vpc_id = "dfadf"
 }
 
