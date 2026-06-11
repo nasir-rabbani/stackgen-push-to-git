@@ -5,7 +5,7 @@ module "stackgen_5a532d91-eaad-4cd6-ae81-7d3d34b4bda2" {
   description = "Managed by Terraform"
   egress      = []
   ingress     = []
-  name        = "example-sg123"
+  name        = "example-sg1234567"
   tags = {
     Name = "my_sg"
   }
