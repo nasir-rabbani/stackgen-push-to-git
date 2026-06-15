@@ -3,7 +3,7 @@ module "test-s3-nsrk" {
   block_public_access          = true
   bucket_name                  = "nasir-playground-test-bucket-1-modified"
   bucket_policy                = ""
-  enable_versioning            = true
+  enable_versioning            = false
   enable_website_configuration = false
   sse_algorithm                = "aws:kms"
   tags = {
