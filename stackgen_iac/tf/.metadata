@@ -1,0 +1,7 @@
+{
+  "app_stack_name": "stackgen-s3",
+  "iac_type": "Terraform",
+  "provider": "aws",
+  "multi_env": true,
+  "exporter": "terraform"
+}
