@@ -1,0 +1,7 @@
+{
+  "app_stack_name": "bootstrap",
+  "iac_type": "Terraform",
+  "provider": "gcp",
+  "multi_env": false,
+  "exporter": "terraform"
+}
