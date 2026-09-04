@@ -1,1 +1,0 @@
-# stackgen-push-to-git
